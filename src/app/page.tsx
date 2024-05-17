@@ -14,6 +14,7 @@ import Instagram from "@/components/Home1/Instagram";
 import Brand from "@/components/Home1/Brand";
 import Footer from "@/components/Footer/Footer";
 import ModalNewsletter from "@/components/Modal/ModalNewsletter";
+import Map from "@/components/Map/Map";
 
 export default function Home() {
   return (
@@ -34,6 +35,7 @@ export default function Home() {
       <Testimonial data={testimonialData} limit={6} />
       <Instagram />
       <Brand />
+      <Map />
       <Footer />
     </>
   );

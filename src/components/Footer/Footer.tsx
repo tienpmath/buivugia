@@ -12,19 +12,30 @@ const Footer = () => {
             <div className="content-footer py-[60px] flex justify-between flex-wrap gap-y-8">
               <div className="company-infor basis-1/4 max-lg:basis-full pr-7">
                 <Link href={"/"} className="logo">
-                  <div className="heading4">MÂY TRE ĐAN</div>
+                  <div className="heading6">
+                    Chuyên sản phẩm mây tre đan Handmade
+                  </div>
                 </Link>
                 <div className="flex gap-3 mt-3">
                   <div className="flex flex-col ">
-                    <span className="text-button">Mail:</span>
-                    <span className="text-button mt-3">Phone:</span>
-                    <span className="text-button mt-3">Address:</span>
+                    <span className="text-button">Zalo: 0933 58 00 48</span>
+                    <span className="text-button mt-3">
+                      Phone: 0933 58 00 48
+                    </span>
+                    <span className="text-button mt-3">
+                      {" "}
+                      Chi nhánh Bảo Lộc: 1B2 Nguyễn Công Trứ - Hoa Sơn Quán,
+                      Hàng Dừa, Phường 1, TP Bảo Lộc
+                    </span>
+                    <span className="text-button mt-3">
+                      Chi nhánh Đà Lạt: 50 Lý Tự Trọng, Phường 2, Thành phố Đà
+                      Lạt
+                    </span>
                   </div>
                   <div className="flex flex-col ">
-                    <span className="">hi.avitex@gmail.com</span>
-                    <span className="mt-3">1-333-345-6868</span>
+                    <span className="mt-3">Phone: 0933 58 00 48</span>
                     <span className="mt-3 pt-px">
-                      549 Oak St.Crystal Lake, IL 60014
+                      50 Lý Tự Trọng, Phường 2, Thành phố Đà Lạt
                     </span>
                   </div>
                 </div>
@@ -32,18 +43,18 @@ const Footer = () => {
               <div className="right-content flex flex-wrap gap-y-8 basis-3/4 max-lg:basis-full">
                 <div className="list-nav flex justify-between basis-2/3 max-md:basis-full gap-4">
                   <div className="item flex flex-col basis-1/3 ">
-                    <div className="text-button-uppercase pb-3">Infomation</div>
+                    <div className="text-button-uppercase pb-3">Thông tin</div>
                     <Link
                       className="caption1 has-line-before duration-300 w-fit"
                       href={"/pages/contact"}
                     >
-                      Contact us
+                      Liên hệ
                     </Link>
                     <Link
                       className="caption1 has-line-before duration-300 w-fit pt-2"
                       href={"#!"}
                     >
-                      Career
+                      Dịch vụ
                     </Link>
                     <Link
                       className="caption1 has-line-before duration-300 w-fit pt-2"
@@ -55,13 +66,13 @@ const Footer = () => {
                       className="caption1 has-line-before duration-300 w-fit pt-2"
                       href={"/order-tracking"}
                     >
-                      Order & Returns
+                      Đơn hàng
                     </Link>
                     <Link
                       className="caption1 has-line-before duration-300 w-fit pt-2"
                       href={"/pages/faqs"}
                     >
-                      FAQs
+                      Hỏi đáp
                     </Link>
                   </div>
                   <div className="item flex flex-col basis-1/3 ">
@@ -70,37 +81,35 @@ const Footer = () => {
                       className="caption1 has-line-before duration-300 w-fit"
                       href={"/shop/breadcrumb1"}
                     >
-                      Women
+                      Sản phẩm Mây Tre đan
                     </Link>
                     <Link
                       className="caption1 has-line-before duration-300 w-fit pt-2"
                       href={"/shop/breadcrumb1"}
                     >
-                      Men
+                      Sản phẩm đèn trang trí
                     </Link>
                     <Link
                       className="caption1 has-line-before duration-300 w-fit pt-2"
                       href={"/shop/breadcrumb1"}
                     >
-                      Clothes
+                      Cafe, quán, Nhà hàng
                     </Link>
                     <Link
                       className="caption1 has-line-before duration-300 w-fit pt-2"
                       href={"/shop/breadcrumb1"}
                     >
-                      Accessories
+                      Sân vườn, Homstay
                     </Link>
                     <Link
                       className="caption1 has-line-before duration-300 w-fit pt-2"
                       href={"/blog"}
                     >
-                      Blog
+                      Tin tức
                     </Link>
                   </div>
                   <div className="item flex flex-col basis-1/3 ">
-                    <div className="text-button-uppercase pb-3">
-                      Customer Services
-                    </div>
+                    <div className="text-button-uppercase pb-3">Khách hàng</div>
                     <Link
                       className="caption1 has-line-before duration-300 w-fit"
                       href={"/pages/faqs"}
@@ -147,19 +156,34 @@ const Footer = () => {
                     </form>
                   </div>
                   <div className="list-social flex items-center gap-6 mt-4">
-                    <Link href={"https://www.facebook.com/"} target="_blank">
+                    <Link
+                      href={"https://www.facebook.com/thegioihandmadebuivugia"}
+                      target="_blank"
+                    >
                       <div className="icon-facebook text-2xl text-black"></div>
                     </Link>
-                    <Link href={"https://www.instagram.com/"} target="_blank">
+                    <Link
+                      href={"https://www.facebook.com/thegioihandmadebuivugia"}
+                      target="_blank"
+                    >
                       <div className="icon-instagram text-2xl text-black"></div>
                     </Link>
-                    <Link href={"https://www.twitter.com/"} target="_blank">
+                    <Link
+                      href={"https://www.facebook.com/thegioihandmadebuivugia"}
+                      target="_blank"
+                    >
                       <div className="icon-twitter text-2xl text-black"></div>
                     </Link>
-                    <Link href={"https://www.youtube.com/"} target="_blank">
+                    <Link
+                      href={"https://www.facebook.com/thegioihandmadebuivugia"}
+                      target="_blank"
+                    >
                       <div className="icon-youtube text-2xl text-black"></div>
                     </Link>
-                    <Link href={"https://www.pinterest.com/"} target="_blank">
+                    <Link
+                      href={"https://www.facebook.com/thegioihandmadebuivugia"}
+                      target="_blank"
+                    >
                       <div className="icon-pinterest text-2xl text-black"></div>
                     </Link>
                   </div>
