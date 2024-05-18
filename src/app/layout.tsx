@@ -14,11 +14,10 @@ const serverTimeLeft: CountdownTimeType = countdownTime();
 
 const instrument = Instrument_Sans({ subsets: ["latin"] });
 
-export const metadata: Metadata = {
-  title:
-    "Bùi Gia Vũ - Chuyên Sản phẩm Mây tre đan, handmade, thủ công, trang trí",
+export const metadata = {
+  title: "Đèn decor, bàn ghế mây tre handmade Bui Vũ Gia Đà Lạt - Lâm Đồng",
   description:
-    "Bùi Gia Vũ - Chuyên Sản phẩm Mây tre đan, handmade, thủ công, trang trí",
+    "Bùi Vũ Gia: phân phối sỉ, lẻ đèn decor, bàn ghế mây tre handmade  uy tín tại Đà Lạt, Bảo Lộc.☎️ 0944838788 Dịch vụ Thiết kế Đèn trang trí mây tre đan, bàn ghế mây tre thủ công ✔️✔️ Thiết kế quán, nhà hàng, homestay, quán cafe theo phong cách mấy tre",
 };
 
 export default function RootLayout({

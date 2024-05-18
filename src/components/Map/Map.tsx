@@ -12,7 +12,7 @@ const Map = () => {
         >
           <center>
             {" "}
-            Chi nhánh Bảo Lộc: 1B2 Nguyễn Công Trứ - Hoa Sơn Quán, Hàng Dừa,
+            Chi nhánh Bảo Lộc: 1B2 Nguyễn Công Trứ - Trà Hoa Quán, Hàng Dừa,
             Phường 1, TP Bảo Lộc
           </center>
           <div className="banner-img">
