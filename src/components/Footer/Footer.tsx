@@ -193,7 +193,8 @@ const Footer = () => {
             <div className="footer-bottom py-3 flex items-center justify-between gap-5 max-lg:justify-center max-lg:flex-col border-t border-line">
               <div className="left flex items-center gap-8">
                 <div className="copyright caption1 text-secondary">
-                  ©2023 Anvogue. All Rights Reserved.
+                  ©2023 Đèn decor, bàn ghế mây tre handmade Bui Vũ Gia Đà Lạt -
+                  Lâm Đồng. All Rights Công Ty TNHH Bùi Vũ Gia.
                 </div>
                 <div className="select-block flex items-center gap-5 max-md:hidden">
                   <div className="choose-language flex items-center gap-1.5"></div>
