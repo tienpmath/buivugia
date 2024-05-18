@@ -18,6 +18,12 @@ export const metadata = {
   title: "Đèn decor, bàn ghế mây tre handmade Bui Vũ Gia Đà Lạt - Lâm Đồng",
   description:
     "Bùi Vũ Gia: phân phối sỉ, lẻ đèn decor, bàn ghế mây tre handmade  uy tín tại Đà Lạt, Bảo Lộc, Đức Trọng ☎️ 0933580048 Thiết kế Đèn trang trí mây tre đan, bàn ghế mây tre thủ công ✔️✔️ Thiết kế quán, nhà hàng, homestay, quán cafe theo phong cách mấy tre",
+  openGraph: {
+    title: "Đèn decor, bàn ghế mây tre handmade Bui Vũ Gia Đà Lạt - Lâm Đồng",
+    description:
+      "Bùi Vũ Gia: phân phối sỉ, lẻ đèn decor, bàn ghế mây tre handmade  uy tín tại Đà Lạt, Bảo Lộc, Đức Trọng ☎️ 0933580048 Thiết kế Đèn trang trí mây tre đan, bàn ghế mây tre thủ công ✔️✔️ Thiết kế quán, nhà hàng, homestay, quán cafe theo phong cách mấy tre",
+    images: "/logo.png",
+  },
 };
 
 export default function RootLayout({
