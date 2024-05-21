@@ -2,14 +2,14 @@
   <url>
     <loc>https://buivugia.com</loc>
     <lastmod>2024-05-20T15:02:24.021Z</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>1</priority>
+<changefreq>daily</changefreq>
+<priority>1.00</priority>
   </url>
   <url>
     <loc>https://buivugia.com/gioi-thieu</loc>
     <lastmod>2024-05-20T15:02:24.021Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+<changefreq>daily</changefreq>
+<priority>1.00</priority>
   </url>
 
 </urlset>
