@@ -11,5 +11,16 @@
 <changefreq>daily</changefreq>
 <priority>1.00</priority>
   </url>
-
+  <url>
+    <loc>https://buivugia.com/lien-he</loc>
+    <lastmod>2024-05-20T15:02:24.021Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>1.00</priority>
+  </url>
+    <url>
+    <loc>https://buivugia.com/san-pham</loc>
+    <lastmod>2024-05-20T15:02:24.021Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>1.00</priority>
+  </url>
 </urlset>
